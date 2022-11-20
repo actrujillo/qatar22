@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Imported;
+  src: url(../font/Qatar2022Arabic-Bold.ttf);
+}
+
+body {
+  font-family: Imported !important;
+  margin: 0;
+  padding: 0;
+}
